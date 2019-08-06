@@ -17,7 +17,7 @@ public class Main {
         System.out.println(3333);
         System.out.println(888);
         System.out.println(999);
-        System.out.println(101010);
+
 		
 
 		
